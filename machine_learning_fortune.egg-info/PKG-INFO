@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: machine-learning-fortune
+Version: 0.0.1
+Summary: Make a `fortune` with machine learning!
+Home-page: https://github.com/wballard/machine-learning-fortune
+Author: Will Ballard
+Author-email: wballard@mailframe.net
+License: BSD 3-Clause License
+Description-Content-Type: UNKNOWN
+Description: machine-learning-fortune
+        ========================
+        
+        You always wanted to learn how to make a `fortune` with machine learning, now
+        is your time!
+        
+        ::
+            machine-learning-fortune
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence

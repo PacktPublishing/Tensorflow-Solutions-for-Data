@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+bin/machine-learning-fortune
+fortune/__init__.py
+fortune/ancient_quotes.txt
+fortune/cli.py
+fortune/generate.py
+fortune/train.py
+machine_learning_fortune.egg-info/PKG-INFO
+machine_learning_fortune.egg-info/SOURCES.txt
+machine_learning_fortune.egg-info/dependency_links.txt
+machine_learning_fortune.egg-info/requires.txt
+machine_learning_fortune.egg-info/top_level.txt
