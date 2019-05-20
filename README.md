@@ -18,12 +18,12 @@ You will also work with recurrent neural networks, which generate realistic test
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for application developers looking to integrate machine learning into application software and master deep learning by implementing practical projects in TensorFlow. Some knowledge of Python programming and the basics of deep learning is required to get the best out of this video.		
 ### Technical Requirements
-This course has the following software requirements:<br/>
-Minimum Hardware Requirements
 
-OS: GNU/Linux Distribution (ex: Ubuntu, Debian, Fedora, etc.), Mac OS, Microsoft Windows
-Processor: Relatively modern CPU (Intel Core iX series 4th gen,  AMD equivalent)
-Memory: 4GB
+### Minimum Hardware Requirements
+<UL>
+<LI>OS: GNU/Linux Distribution (ex: Ubuntu, Debian, Fedora, etc.), Mac OS, Microsoft Windows</LI>
+<LI>Processor: Relatively modern CPU (Intel Core iX series 4th gen,  AMD equivalent)</LI>
+<LI>Memory: 4GB</LI></UL>
 
 
  
